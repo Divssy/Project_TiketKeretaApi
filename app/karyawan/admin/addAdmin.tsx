@@ -79,7 +79,7 @@ const AddAdmin = () => {
         <form onSubmit={(e) => handleSubmit(e)}>
           <div className="w-full p-3 rounded-t-lg">
             {/* rounded t adalah border top */}
-            <h1 className="font-bold text-lg">Tambah Data Admin</h1>
+            <h1 className="font-bold text-lg">Tambah Data Karyawan</h1>
             <span className="text-sm text-slate-400">
               Pastikan data yang diisi benar
             </span>

@@ -60,7 +60,7 @@ const EmployeeTemplate = (myProp: props) => {
                     </Link>
                     <Link href={`/karyawan/admin`}
                         className="w-full rounded-md text-white p-3 font-semibold hover:bg-orange-600">
-                        Data Admin
+                        Data Karyawan
                     </Link>
                     <Link href={`/karyawan/pelanggan`}
                         className="w-full rounded-md text-white p-3 font-semibold hover:bg-orange-600">
